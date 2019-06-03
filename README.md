@@ -1,8 +1,8 @@
 
-# Serverless Development Environment on Vagrant
+# AWS Amplify Serverless Development Environment on Vagrant
 
 Configuration files to automatically set up a basic and customizable Vagrant box
-with the required tools to develop serverless projects.
+with the required tools to develop AWS Amplify serverless projects.
 
 **Note**: Currently, the provision scripts only install development tools used
 for AWS Lambda, but it can be customized with your own provision script.
